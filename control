@@ -1,9 +1,14 @@
 Package: com.tomaszpoliszuk.flipswitchsmartinvertcolors
 Depends: firmware (>= 12.0), mobilesubstrate, com.a3tweaks.flipswitch
 Name: Flipswitch - Smart Invert Colors
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Flipswitch toggle for Smart Invert Colors
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchsmartinvertcolorsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchsmartinvertcolorsDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Addons (Flipswitch)
 dev: tomaszpoliszuk
+Tag: purpose::extension, compatible::ios12, compatible::ios13
